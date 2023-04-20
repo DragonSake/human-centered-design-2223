@@ -12,8 +12,6 @@ In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen.
 Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? 
 Wat voor principes heb je gebruikt en getest? En is het leuk?
 
-## Opdracht
-
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
 <!-- ☝️ replace this description with a description of your own work -->
