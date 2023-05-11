@@ -207,14 +207,6 @@ const copyContent = async () => {
 
 ***
 
-### Bron
-
-Deze bron heb ik gebruikt voor het kopiëren van de tekst op de website. 
-
-https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/
-
-***
-
 ### Testplan vragen
 
 Wat wil ik te weten komen?
@@ -257,6 +249,151 @@ dan kan ze zelf beter bepalen wanneer ze de scroll wil stoppen.
 Ze wil op dezelfde manier kunnen plakken als kopiëren en dat is door middel van een klik.
 
 Tekst is Lorem Ipsum
+
+***
+
+## Eindresultaat
+
+### Inzichten die ik meeneem:
+
+* Niet lang hoeven scrollen
+
+* Met een klik scrollen
+
+* Plakken met een klik
+
+* Lorem Ipsum tekst
+
+***
+
+### Vernieuwde website
+
+Lorem Ipsum is veranderd naar een verhaal die ik op internet heb gevonden.
+
+Ze wilde niet lang scrollen dus, heb ik het verhaal in stukjes geknipt.
+
+De scroll buttons zitten er nog steeds, maar dan op een iets hogere plek waardoor ze sneller bediend kunnen worden en 
+
+sneller gezien kunnen worden.
+
+De paste button is op dezelfde manier te bedienen als de copy button, door middel van een klik.
+
+Alleen je moet nog steeds permission geven om te kunnen plakken, dat komt doordat de browser user privacy prioriteren.
+
+***
+
+### Screenshots
+
+![screencapture-dragonsake-github-io-human-centered-design-2223-index-html-2023-05-11-18_55_20](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/b39a7287-1bf3-47b1-861b-a21935b857e4)
+
+![screencapture-dragonsake-github-io-human-centered-design-2223-page2-html-2023-05-11-18_55_34](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/0b71b1f9-4521-4117-b984-c2daf79c48dc)
+
+![screencapture-dragonsake-github-io-human-centered-design-2223-page9-html-2023-05-11-18_55_55](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/4d112072-e564-49ab-ba19-58c7dd36ca36)
+
+***
+
+### Code
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nicolette</title>
+  <link rel="stylesheet" href="./style/style.css">
+  <script src="./scripts/js.js" defer></script>
+</head>
+
+<body>
+  <main>
+    <section>
+      <div class="container">
+        <button id="up-button">&#8593;</button>
+        <button id="down-button">&#8595;</button>
+      </div>
+
+      <h1>The Girl and the Puma</h1>
+
+      <article>
+        <p id="myText">Five hundred years ago when the Spanish entered South America, Native American tribes often fought back against the invaders. One way tribes could put pressure on the Spanish was to surround their settlements. This is what happened in the early 1500's when Maldonado, a Spanish girl, was 15 years old.</p>
+      </article>
+
+      <div>
+        <button class="invisible">Back
+        </button>
+  
+        <button onclick="page2()">Next
+        </button>
+
+      <button class="copy" onclick="copyContent()">
+        <span id="copyText">Click here to copy the text!</span>
+      </button>
+
+      <button onclick="paste()">Click here to paste the text!
+      </button>
+    </div>
+
+      <p class="tester">Test if it's copied:</p>
+      <textarea></textarea>
+  </section>
+  </main>
+</body>
+
+</html>
+```
+
+```JS
+// scroll using click
+document.getElementById('up-button').addEventListener('click', function () {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+});
+
+document.getElementById('down-button').addEventListener('click', function () {
+    window.scrollTo({
+        top: document.body.scrollHeight,
+        behavior: 'smooth'
+    });
+});
+
+// scroll using hover
+// document.getElementById('up-button').addEventListener('mouseover', function () {
+//     window.scrollTo({
+//         top: 0,
+//         behavior: 'smooth'
+//     });
+// });
+
+// document.getElementById('down-button').addEventListener('mouseover', function () {
+//     window.scrollTo({
+//         top: document.body.scrollHeight,
+//         behavior: 'smooth'
+//     });
+// });
+
+let text = document.getElementById('myText').innerHTML;
+
+const copyContent = async () => {
+    await navigator.clipboard.writeText(text);
+    
+    var copyText = document.getElementById("copyText");
+    copyText.innerText = "Copied to clipboard!";
+}
+
+function page2() {
+    window.location.href = "page2.html";
+}
+
+function paste() {
+    navigator.clipboard.readText().then(function(text) {
+    document.querySelector('textarea').value = text;
+      });
+  }
+```
 
 ***
 
