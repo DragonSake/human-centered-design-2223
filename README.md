@@ -10,7 +10,9 @@
 
 Live demo: https://dragonsake.github.io/human-centered-design-2223/
 
-## Inhoudsopgave
+***
+
+# Inhoudsopgave
 
 * Onderzoeksvraag
 * Probleem
