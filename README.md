@@ -79,6 +79,8 @@ Geen dubbelklik
 
 Slepen is lastig
 
+***
+
 ### Opmerkingen gesprek en testen
 In openbare ruimtes is de spraak slecht detecteerbaar
 
@@ -361,21 +363,6 @@ document.getElementById('down-button').addEventListener('click', function () {
         behavior: 'smooth'
     });
 });
-
-// scroll using hover
-// document.getElementById('up-button').addEventListener('mouseover', function () {
-//     window.scrollTo({
-//         top: 0,
-//         behavior: 'smooth'
-//     });
-// });
-
-// document.getElementById('down-button').addEventListener('mouseover', function () {
-//     window.scrollTo({
-//         top: document.body.scrollHeight,
-//         behavior: 'smooth'
-//     });
-// });
 
 let text = document.getElementById('myText').innerHTML;
 
