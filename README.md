@@ -1,6 +1,6 @@
 # Human Centered Design @cmda-minor-web 2022 - 2023
 
-Copy, paste and scroll!
+# Copy, paste and scroll!
 
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/f6b397e2-6952-48f0-9564-ef51851c3b7f)
 
