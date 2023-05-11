@@ -28,17 +28,21 @@ document.getElementById('down-button').addEventListener('click', function () {
 //     });
 // });
 
-let text = document.getElementById('myText').innerHTML;
+let text7 = document.getElementById('myText7').innerHTML;
 
-const copyContent = async () => {
-    await navigator.clipboard.writeText(text);
+const copyContent7 = async () => {
+    await navigator.clipboard.writeText(text7);
     
-    var copyText = document.getElementById("copyText");
-    copyText.innerText = "Copied to clipboard!";
+    var copyText7 = document.getElementById("copyText7");
+    copyText7.innerText = "Copied to clipboard!";
 }
 
-function page2() {
-    window.location.href = "page2.html";
+function page6() {
+    window.location.href = "page6.html";
+}
+
+function page8() {
+    window.location.href = "page8.html";
 }
 
 function paste() {
