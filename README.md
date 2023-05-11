@@ -94,7 +94,7 @@ Voor het prototype heb ik 2 buttons voor het omhoog en omlaag scrollen op pagina
 
 Voor het testen wil ik kijken wat zij fijner vind om te scrollen, klikken of hoveren.
 
-Daarnaast heb ik nog een button gemaakt waardoor zij de tekst kan kopiëren en een textarea om te kunnen testen of het kopiëren is gelukt
+Daarnaast heb ik nog een button gemaakt waardoor zij de tekst kan kopiëren en een textarea om te kunnen testen of het kopiëren is gelukt.
 
 ***
 
@@ -250,7 +250,7 @@ dan kan ze zelf beter bepalen wanneer ze de scroll wil stoppen.
 
 Ze wil op dezelfde manier kunnen plakken als kopiëren en dat is door middel van een klik.
 
-Tekst is Lorem Ipsum
+Tekst is Lorem Ipsum.
 
 ***
 
@@ -402,15 +402,19 @@ function paste() {
 ## Features
 
 Knip button - met deze button kan je de tekst knippen
+
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/92c8280d-fc72-4bb2-8497-556a241314e3)
 
 Plak button - met deze button kan je de plakken knippen
+
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/45c2dc20-1e22-42e5-8df0-a30872781627)
 
 Scroll up button - met deze button kan je
+
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/f33d29fd-d205-4ddd-b1f7-4e45782a3ae9)
 
 Scroll down button - met deze button kan je
+
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/53523cfa-caa4-453a-b070-128896489142)
 
 ***
