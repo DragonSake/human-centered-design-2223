@@ -45,6 +45,8 @@ Dit maakt navigeren lastig omdat ze geen snelkoppelingen kan gebruiken.
 
 ## Oplossing
 
+Een website waarmee Nicolette eenvoudig kan knippen, plakken en scrollen.
+
 ***
 
 ## Test 1
