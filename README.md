@@ -19,7 +19,9 @@ Live demo: https://dragonsake.github.io/human-centered-design-2223/
 * Oplossing
 * Test 1
 * Test 2
+* Eindresultaat
 * Features
+* Design priciples
 * Checklist
 * License
 
@@ -403,6 +405,37 @@ Scroll up button - met deze button kan je
 Scroll down button - met deze button kan je
 
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/53523cfa-caa4-453a-b070-128896489142)
+
+***
+
+## Design priciples
+
+### Study Situation
+
+We hebben met Nicolette een gesprek gehad over haar situatie. Zij kan beperkt gebruik maken van haar ledematen. We hebben een aantal vragen gesteld om de situatie beter te begrijpen. Daarnaast hebben we ook test gedaan met wat allemaal wel mogelijk was voor haar om te gebruiken en doen. Met deze informatie heb ik een prototype gemaakt en getest met Nicolette of het goed voor haar werkt of niet. Vervolgens heb ik haar een aantal vragen gesteld, om te kijken wat zij dingen prettiger zou vinden. 
+
+### Ignore Conventions
+
+Ik heb de belangrijke buttons om in het midden gezet, zodat zij daar makkelijk bij kan en niet veel hoeft te bewegen met haar tekentablet. De knoppen en  tekst zijn ook een stuk groter dan dat ik normaal zou doen. Veel mensen vinden de optie voor dark-mode ook heel fijn, maar zij kon dacht minder goed lezen, dus heb ik light-mode toegepast.
+
+### Prioritise Identity
+
+Met haar situatie in gedachten heb ik een prototype gemaakt, waar zij niet moet scrollen met het scrollwheel maar met knoppen. Klikken vond ze erg fijn dus daar heb ik rekening mee gehouden. 
+
+
+### Add Nonsense
+
+Om de website interessanter te maken, heb ik verhaal gebruikt wat zij kan testen voor het kopiëren, plakken en scrollen van de tekst. Daarnaast heb ik kleurenpallet gezocht om het wat mooier vorm te geven.
+
+***
+
+## Conclusie
+
+Nicolette heeft moeite met het kopiëren, plakken en scrollen van de tekst. Voor haar maak ik een website dat dat eenvoudiger moet maken.
+
+Met het testen heb ik verschillende inzichten meegenomen naar mijn uiteindelijke website. Een belangrijk inzicht was dat zij klikken heel erg fijn vond en dat dat niet zoveel moeite kost. Daarnaast vond ze slepen en scrollen niet zo fijn om te doen.
+
+Nu kan Nicolette kopiëren, plakken en scrollen door middel van klikken.
 
 ***
 
