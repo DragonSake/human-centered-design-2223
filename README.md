@@ -431,7 +431,7 @@ Om de website interessanter te maken, heb ik verhaal gebruikt wat zij kan testen
 
 ## Conclusie
 
-Nicolette heeft moeite met het kopiëren, plakken en scrollen van de tekst. Voor haar maak ik een website dat dat eenvoudiger moet maken.
+Ik heb een speciale website gemaakt voor Nicolette, die moeite heeft met kopiëren, plakken en scrollen. Tijdens het testen kwam ik erachter dat Nicolette erg houdt van klikken en dat slepen en scrollen niet haar favoriet is. Daarom heb ik de website aangepast, zodat Nicolette nu gemakkelijk taken kan uitvoeren door simpelweg te klikken. Deze aanpassingen hebben haar gebruikservaring verbeterd en de website meer toegankelijk gemaakt voor haar.
 
 Met het testen heb ik verschillende inzichten meegenomen naar mijn uiteindelijke website. Een belangrijk inzicht was dat zij klikken heel erg fijn vond en dat dat niet zoveel moeite kost. Daarnaast vond ze slepen en scrollen niet zo fijn om te doen.
 
