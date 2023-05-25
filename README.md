@@ -1,5 +1,11 @@
 # Human Centered Design @cmda-minor-web 2022 - 2023
 
+Human Centered Design is een methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
+
+Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. Omdat eem Frontender verstand heeft van interactie, vormgeving én techniek kun je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
+
+In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je testpersoon je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En is het leuk?
+
 # Copy, paste and scroll!
 
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/f6b397e2-6952-48f0-9564-ef51851c3b7f)
