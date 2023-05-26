@@ -24,8 +24,7 @@ Live demo: https://dragonsake.github.io/human-centered-design-2223/
 * Probleem
 * Oplossing
 * User scenario
-* Test 1
-* Test 2
+* Testen
 * Eindresultaat
 * Features
 * Design priciples
@@ -42,13 +41,21 @@ Live demo: https://dragonsake.github.io/human-centered-design-2223/
 
 ## Probleem
 
-Nicolette kan beperkt gebruik maken van haar ledematen. Ze gebruikt een rolstoel om zich te verplaatsen. Op haar computer maakt ze gebruik van spraaksoftware en een tekentablet in plaats van een muis. Dit maakt navigeren lastig omdat ze geen snelkoppelingen kan gebruiken.
+Nicolette kan beperkt gebruik maken van haar ledematen. Ze gebruikt een rolstoel om zich te verplaatsen. Op haar laptop maakt ze gebruik van spraaksoftware als toetsenbord en een tekentablet als muis. Dit maakt navigeren lastig en ze kan ook geen snelkoppelingen gebruiken. Scrollen vindt ze lastig, want dan moet ze lange bewegingen maken.
 
 ***
 
 ## Oplossing
 
-Een website waarmee Nicolette eenvoudig kan knippen, plakken en scrollen.
+Een website waarmee Nicolette eenvoudig kan kopiëren, plakken en scrollen.
+
+Buttons om te kunnen kopiëren en plakken.
+
+![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/8314d1f5-f5ad-4963-a3b1-661d86bca458)
+
+Buttons om te kunnen scrollen
+
+![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/aa4aba17-bf4b-423d-a7a1-9cb1d5cbd7e5)
 
 ***
 
@@ -74,7 +81,9 @@ Met mijn website kan Nicolette zonder problemen tekst kopiëren en plakken. Ze k
 
 ***
 
-## Test 1
+## Testen
+
+### Test 1
 
 ### Aantekeningen gesprek en testen
 
@@ -425,11 +434,11 @@ Plak button - met deze button kan je de plakken knippen
 
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/45c2dc20-1e22-42e5-8df0-a30872781627)
 
-Scroll up button - met deze button kan je
+Scroll up button - met deze button kan je omhoog scrollen
 
-![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/f33d29fd-d205-4ddd-b1f7-4e45782a3ae9)
+![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/ba9bb1f3-61ee-4387-976b-f0e8fd55c887)
 
-Scroll down button - met deze button kan je
+Scroll down button - met deze button kan je omlaag scrollen
 
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/53523cfa-caa4-453a-b070-128896489142)
 
