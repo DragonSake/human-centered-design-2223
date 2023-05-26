@@ -23,6 +23,7 @@ Live demo: https://dragonsake.github.io/human-centered-design-2223/
 * Onderzoeksvraag
 * Probleem
 * Oplossing
+* User scenario
 * Test 1
 * Test 2
 * Eindresultaat
@@ -41,19 +42,33 @@ Live demo: https://dragonsake.github.io/human-centered-design-2223/
 
 ## Probleem
 
-Nicolette kan beperkt gebruik maken van haar ledematen.
-
-Ze gebruikt een rolstoel om zich te verplaatsen.
-
-Op haar computer maakt ze gebruik van spraaksoftware en een tekentablet in plaats van een muis.
-
-Dit maakt navigeren lastig omdat ze geen snelkoppelingen kan gebruiken.
+Nicolette kan beperkt gebruik maken van haar ledematen. Ze gebruikt een rolstoel om zich te verplaatsen. Op haar computer maakt ze gebruik van spraaksoftware en een tekentablet in plaats van een muis. Dit maakt navigeren lastig omdat ze geen snelkoppelingen kan gebruiken.
 
 ***
 
 ## Oplossing
 
 Een website waarmee Nicolette eenvoudig kan knippen, plakken en scrollen.
+
+***
+
+## User scenario
+
+### Wie is Nicolette?
+
+De persoon voor wie ik deze opdracht maak is Nicolette. Ze is een 76 jarige vrouw, houdt van onderwerpen zoals klimaatverandering en natuur. Daarnaast heeft ze gewerkt bij de gemeente Amsterdam. Hier heeft ze veel activiteiten georganiseerd voor gehandicapten.
+
+Nicolette kan maar beperkt gebruik kan maken van haar ledematen. Ze kan deels haar armen en benen gebruiken. Om haar te verplaatsen gebruikt ze een rolstoel. Daarnaast heeft ze een laptop die ze met haar eigen manier bediend. Ze gebruikt spraaksoftware als toetsenbord en een tekentablet Wacom Intuos S als muis. 
+
+### Wat is het probleem van Nicolette?
+
+Nicolette leest graag artikelen. Ze wil zonder hulp, stukken tekst kunnen kopiëren en in een ander document plakken. Het liefst zou ze dit willen kunnen doen zonder te slepen of te scrollen. Daarnaast lukt het haar niet om sneltoetsen te gebruiken. 
+
+### Hoe kan ik Nicolette helpen?
+
+
+
+### Waarom mijn website?
 
 ***
 
@@ -93,6 +108,10 @@ Slepen is lastig
 In openbare ruimtes is de spraak slecht detecteerbaar
 
 Om iets te plakken uit clipboard, moet je permission geven
+
+***
+
+### Conclusie
 
 ***
 
