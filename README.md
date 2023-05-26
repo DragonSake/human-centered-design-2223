@@ -445,11 +445,11 @@ function paste() {
 
 ## Features
 
-Knip button - met deze button kan je de tekst knippen
+Copy button - met deze button kan je de tekst kopiëren
 
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/92c8280d-fc72-4bb2-8497-556a241314e3)
 
-Plak button - met deze button kan je de plakken knippen
+Plak button - met deze button kan je de gekopieerde tekst plakken 
 
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/45c2dc20-1e22-42e5-8df0-a30872781627)
 
