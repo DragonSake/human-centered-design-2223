@@ -24,11 +24,14 @@ Live demo: https://dragonsake.github.io/human-centered-design-2223/
 * Probleem
 * Oplossing
 * User scenario
-* Testen
+* Testen do's and don'ts
+* Test 1
+* Prototype
+* Test 2
 * Eindresultaat
 * Features
 * Design priciples
-* Checklist
+* Eindconclusie
 * License
 
 ***
@@ -83,9 +86,7 @@ Met mijn website kan Nicolette zonder problemen tekst kopiëren en plakken. Ze k
 
 ***
 
-## Testen
-
-### Do's and don'ts
+## Testen do's and don'ts
 
 * De testpersoon vragen om hardop te denken
 * Niet helpen
@@ -96,7 +97,7 @@ Met mijn website kan Nicolette zonder problemen tekst kopiëren en plakken. Ze k
 
 ***
 
-### Test 1
+## Test 1
 
 ### Testvragen
 
@@ -145,11 +146,11 @@ In openbare ruimtes is de spraak slecht detecteerbaar
 
 Om iets te plakken uit clipboard, moet je permission geven
 
-### Conclusie
+### Conclusie test 1
 
 ***
 
-### Test 2
+## Prototype
 
 ### Website
 
@@ -159,13 +160,9 @@ Voor het testen wil ik kijken wat zij fijner vind om te scrollen, klikken of hov
 
 Daarnaast heb ik nog een button gemaakt waardoor zij de tekst kan kopiëren en een textarea om te kunnen testen of het kopiëren is gelukt.
 
-***
-
 ### Screenshot
 
 ![screencapture-dragonsake-github-io-human-centered-design-2223-2023-05-11-17_29_09](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/39daafdf-f102-4a86-989d-eab403df235f)
-
-***
 
 ### Code
 
@@ -272,6 +269,8 @@ const copyContent = async () => {
 
 ***
 
+### Test 2
+
 ### Testplan vragen
 
 Wat wil ik te weten komen?
@@ -292,12 +291,10 @@ Wat wil ik te weten komen?
 
 ***
 
-### Testen
+### Het testen
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/9a7f4d13-aedf-4f03-a880-a882b82be5b8)
 
 Video: https://youtu.be/Zbw-aqEA5As
-
-***
 
 ### Aantekeningen
 
@@ -314,6 +311,8 @@ dan kan ze zelf beter bepalen wanneer ze de scroll wil stoppen.
 Ze wil op dezelfde manier kunnen plakken als kopiëren en dat is door middel van een klik.
 
 Tekst is Lorem Ipsum.
+
+### Conclusie test 2
 
 ***
 
@@ -488,7 +487,7 @@ Om de website interessanter te maken, heb ik verhaal gebruikt wat zij kan testen
 
 ***
 
-## Conclusie
+## Eindconclusie
 
 Ik heb een speciale website gemaakt voor Nicolette, die moeite heeft met kopiëren, plakken en scrollen. Tijdens het testen kwam ik erachter dat Nicolette erg houdt van klikken en dat slepen en scrollen niet haar favoriet is. Daarom heb ik de website aangepast, zodat Nicolette nu gemakkelijk taken kan uitvoeren door simpelweg te klikken. Deze aanpassingen hebben haar gebruikservaring verbeterd en de website meer toegankelijk gemaakt voor haar.
 
