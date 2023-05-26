@@ -140,20 +140,16 @@ Geen dubbelklik
 
 Slepen is lastig
 
-***
-
 ### Opmerkingen gesprek en testen
 In openbare ruimtes is de spraak slecht detecteerbaar
 
 Om iets te plakken uit clipboard, moet je permission geven
 
-***
-
 ### Conclusie
 
 ***
 
-## Test 2
+### Test 2
 
 ### Website
 
