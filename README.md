@@ -320,7 +320,7 @@ Tekst is Lorem Ipsum.
 
 ## Eindresultaat
 
-### Inzichten die ik meeneem naar het ontwerp:
+### Inzichten die ik meeneem naar het eindontwerp:
 
 * Niet lang hoeven scrollen
 
