@@ -148,7 +148,7 @@ Om iets te plakken uit clipboard, moet je permission geven
 
 ### Conclusie test 1
 
-
+Ze gebruikt op haar eigen manier een laptop. Ze gebruikt namelijk een tekentablet als muis en spraaksoftware om teksten te typen. Ze vindt bewegingen zoals slepen en scrollen niet zo fijn. Daarnaast kan ze ook geen sneltoetsen gebruiken. Klikken vindt ze wel prettig.
 
 ***
 
@@ -306,15 +306,15 @@ Ze heeft gezegd dat ze niet lang scrollen en ze kan niet vertrouwen op haar ving
 
 Als ze zou moeten scrollen op deze website, zou ze het liefste per stukje tekst scrollen.
 
-Nicolette vindt met een klik scrollen veel beter dan alleen erover te hoveren, want
-
-dan kan ze zelf beter bepalen wanneer ze de scroll wil stoppen. 
+Nicolette vindt met een klik scrollen veel beter dan alleen erover te hoveren, want dan kan ze zelf beter bepalen wanneer ze de scroll wil stoppen. 
 
 Ze wil op dezelfde manier kunnen plakken als kopiëren en dat is door middel van een klik.
 
 Tekst is Lorem Ipsum.
 
 ### Conclusie test 2
+
+Ze wil niet hoeven scrollen en als ze moet scrollen dan liever in kleinere stukjes. Klikken vindt ze erg fijn. Hoveren wat minder, omdat ze dat dan zelf minder in de hand heeft.
 
 ***
 
