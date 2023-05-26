@@ -66,9 +66,11 @@ Nicolette leest graag artikelen. Ze wil zonder hulp, stukken tekst kunnen kopië
 
 ### Hoe kan ik Nicolette helpen?
 
-
+Zij gebruikt haar Wacom tekentablet als muis. Ze heeft aangegeven dat ze moeite heeft met slepen en scrollen en ze kan geen sneltoetsen gebruiken. Klikken vindt ze dan weer heel fijn, dat gaat makkelijk en snel. Door middel van deze informatie kan ik een goed ontwerp voor een website voor haar maken.
 
 ### Waarom mijn website?
+
+Met mijn website kan Nicolette zonder problemen tekst kopiëren en plakken. Ze kan heel eenvoudig met haar tekentablet op de buttons klikken. Daarnaast is het ook niet nodig voor haar om te slepen en scrollen. 
 
 ***
 
