@@ -19,20 +19,42 @@ Live demo: https://dragonsake.github.io/human-centered-design-2223/
 ***
 
 # Inhoudsopgave
-
-* Onderzoeksvraag
-* Probleem
-* Oplossing
-* User scenario
-* Testen do's and don'ts
-* Test 1
-* Prototype
-* Test 2
-* Eindresultaat
-* Features
-* Design priciples
-* Eindconclusie
-* License
+  * [Onderzoeksvraag](#onderzoeksvraag)
+  * [Probleem](#probleem)
+  * [Oplossing](#oplossing)
+  * [User scenario](#user-scenario)
+    + [Wie is Nicolette?](#wie-is-nicolette-)
+    + [Wat is het probleem van Nicolette?](#wat-is-het-probleem-van-nicolette-)
+    + [Hoe kan ik Nicolette helpen?](#hoe-kan-ik-nicolette-helpen-)
+    + [Waarom mijn website?](#waarom-mijn-website-)
+  * [Testen do's and don'ts](#testen-do-s-and-don-ts)
+  * [Test 1](#test-1)
+    + [Testvragen](#testvragen)
+    + [Aantekeningen gesprek en testen](#aantekeningen-gesprek-en-testen)
+    + [Opmerkingen gesprek en testen](#opmerkingen-gesprek-en-testen)
+    + [Conclusie test 1](#conclusie-test-1)
+  * [Prototype](#prototype)
+    + [Website](#website-1)
+    + [Screenshot](#screenshot)
+    + [Code](#code)
+    + [Test 2](#test-2)
+    + [Testplan vragen](#testplan-vragen)
+    + [Het testen](#het-testen)
+    + [Aantekeningen](#aantekeningen)
+    + [Conclusie test 2](#conclusie-test-2)
+  * [Eindresultaat](#eindresultaat)
+    + [Inzichten die ik meeneem naar het eindontwerp:](#inzichten-die-ik-meeneem-naar-het-eindontwerp-)
+    + [Vernieuwde website met de inzichten van het testen](#vernieuwde-website-met-de-inzichten-van-het-testen)
+    + [Screenshots](#screenshots)
+    + [Code](#code-1)
+  * [Features](#features)
+  * [Design priciples](#design-priciples)
+    + [Study Situation](#study-situation)
+    + [Ignore Conventions](#ignore-conventions)
+    + [Prioritise Identity](#prioritise-identity)
+    + [Add Nonsense](#add-nonsense)
+  * [Eindconclusie](#eindconclusie)
+  * [License](#license)
 
 ***
 
