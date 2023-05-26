@@ -291,8 +291,6 @@ Wat wil ik te weten komen?
 
 * Zou u liever per regel kunnen kopiëren of gelijk een heel stuk tekst?
 
-***
-
 ### Het testen
 ![image](https://github.com/DragonSake/human-centered-design-2223/assets/40611000/9a7f4d13-aedf-4f03-a880-a882b82be5b8)
 
