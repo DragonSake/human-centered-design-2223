@@ -85,7 +85,32 @@ Met mijn website kan Nicolette zonder problemen tekst kopiëren en plakken. Ze k
 
 ## Testen
 
+### Do's and don'ts
+
+* De testpersoon vragen om hardop te denken
+* Niet helpen
+* Niet sturen
+* Geen suggesties/hints geven
+* Geen oplossingen geven
+* De vragen beantwoorden met een wedervraag
+
+***
+
 ### Test 1
+
+### Testvragen
+
+* Wie bent u?
+* Waar heeft u moeite mee?
+* Welke websites bezoekt u het meest?
+* Welke onderwerpen leest u graag?
+* Welke apparaten gebruikt u?
+* Hoe gebruikt u uw tekentablet?
+* Heeft u die altijd mee?
+* Welke spraaksoftware gebruikt u?
+* Hoe gebruikt u uw mobiel?
+* Welke hindernissen wilt u niet terug zien?
+
 
 ### Aantekeningen gesprek en testen
 
