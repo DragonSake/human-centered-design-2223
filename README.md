@@ -465,22 +465,32 @@ Scroll down button - met deze button kan je omlaag scrollen
 
 ## Design priciples
 
+* Study Situation
+* Ignore Conventions
+* Prioritise Identity
+* Add Nonsense
+
 ### Study Situation
+
+Hier ga je kijken naar de situatie van de testpersoon. Je gaat bestuderen wat het probleem is en hoe je deze kunt oplossen. 
 
 We hebben met Nicolette een gesprek gehad over haar situatie. Zij kan beperkt gebruik maken van haar ledematen. We hebben een aantal vragen gesteld om de situatie beter te begrijpen. Daarnaast hebben we ook test gedaan met wat allemaal wel mogelijk was voor haar om te gebruiken en doen. Met deze informatie heb ik een prototype gemaakt en getest met Nicolette of het goed voor haar werkt of niet. Vervolgens heb ik haar een aantal vragen gesteld, om te kijken wat zij dingen prettiger zou vinden. 
 
 ### Ignore Conventions
 
+Hiermee wordt bedoeld dat je een prototype gaat maken dat buiten de normen valt. Als je voor een groter doelgroep iets ontwerpt, moet je kijken welke ontwerppatronen er zijn. In dit geval moeten je dit loslaten en iets maken wat voor haar is bedoeld en voor haar werkt. Maakt niet uit hoe je het normaal zou aanpakken.
+
 Ik heb de belangrijke buttons om in het midden gezet, zodat zij daar makkelijk bij kan en niet veel hoeft te bewegen met haar tekentablet. De knoppen en  tekst zijn ook een stuk groter dan dat ik normaal zou doen. Veel mensen vinden de optie voor dark-mode ook heel fijn, maar zij kon dacht minder goed lezen, dus heb ik light-mode toegepast.
 
 ### Prioritise Identity
 
-Met haar situatie in gedachten heb ik een prototype gemaakt, waar zij niet moet scrollen met het scrollwheel maar met knoppen. Klikken vond ze erg fijn dus daar heb ik rekening mee gehouden. 
+Hier ga je kijken naar de identiteit van de testpersoon. Je zet haar centraal en onderzoekt wat zij prettig vindt. Op basis van wat zij prettig vindt, ga jij het prototype maken. 
 
+Met haar situatie in gedachten heb ik een prototype gemaakt. Klikken vond ze erg fijn dus daar heb ik rekening mee gehouden. Ze kan nu kopiëren en plakken door middel van een klik. Daarnaast wilde ze niet scrollen met het scrollwheel, dus dat heb ik veranderd naar buttons waarop ze kan klikken. In het prototype hoeft ze geen lange bewegingen te maken en ook niet te slepen.
 
 ### Add Nonsense
 
-Om de website interessanter te maken, heb ik verhaal gebruikt wat zij kan testen voor het kopiëren, plakken en scrollen van de tekst. Daarnaast heb ik kleurenpallet gezocht om het wat mooier vorm te geven.
+Om de website interessanter te maken, heb ik verhaal gebruikt wat zij kan testen voor het kopiëren, plakken en scrollen van de tekst. Daarnaast heb ik kleurenpallet gezocht om het wat mooier vorm te geven. Dit zijn niet echt nonsense, maar ik zou animaties kunnen hebben toegevoegd om het leuker te maken of iets met meer kleuren en vormen zodat het niet statisch is en saai.
 
 ***
 
