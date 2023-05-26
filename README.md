@@ -148,6 +148,8 @@ Om iets te plakken uit clipboard, moet je permission geven
 
 ### Conclusie test 1
 
+
+
 ***
 
 ## Prototype
@@ -318,7 +320,7 @@ Tekst is Lorem Ipsum.
 
 ## Eindresultaat
 
-### Inzichten die ik meeneem:
+### Inzichten die ik meeneem naar het ontwerp:
 
 * Niet lang hoeven scrollen
 
@@ -330,18 +332,13 @@ Tekst is Lorem Ipsum.
 
 ***
 
-### Vernieuwde website
+### Vernieuwde website met de inzichten van het testen
 
-Lorem Ipsum is veranderd naar een verhaal die ik op internet heb gevonden.
+Lorem Ipsum is veranderd naar een verhaal die ik op internet heb gevonden. 
 
-Ze wilde niet lang scrollen dus, heb ik het verhaal in stukjes geknipt.
-
-De scroll buttons zitten er nog steeds, maar dan op een iets hogere plek waardoor ze sneller bediend kunnen worden en 
-
-sneller gezien kunnen worden.
+Ze wilde niet lang scrollen dus, heb ik het verhaal in stukjes geknipt. De scroll buttons zitten er nog steeds, maar dan op een iets hogere plek waardoor ze sneller bediend kunnen worden en sneller gezien kunnen worden.
 
 De paste button is op dezelfde manier te bedienen als de copy button, door middel van een klik.
-
 Alleen je moet nog steeds permission geven om te kunnen plakken, dat komt doordat de browser user privacy prioriteren.
 
 ***
